@@ -74,21 +74,28 @@
   font-size: 0.9rem;
   font-weight: bolder;
   text-align: left;
+  font-size: 30px
 }
 
 .words.line2 {
   top: 25%;
   font-size: 1.2rem;
+  font-size: 25px
+
 }
 
 .words.line3 {
   top: 40%;
   font-size: 1.2rem;
+  font-size: 25px
+
 }
 
 .words.line4 {
   top: 50%;
   font-size: 1.2rem;
+  font-size: 25px
+
 }
 
 /* ENVELOPE ANIMATION */
